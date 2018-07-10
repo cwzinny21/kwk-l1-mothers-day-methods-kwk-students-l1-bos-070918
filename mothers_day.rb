@@ -2,7 +2,7 @@
 
 def mothers_day(name="Mom")
   "Happy Mother's Day, #{name}!"
-  # putting return before the message still works
+  # putting return before the message works too
 end
 
 # def mothers_day(name="Mom")
